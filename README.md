@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Manuhe Teshome.
 - 👀 I’m interested in MERN Stack 
 - 🌱 I’m currently learning React.js and soon start MERN Stack Development
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... You can contact me at " dev.by.manda@gmail.com ".
 
 
