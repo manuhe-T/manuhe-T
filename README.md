@@ -37,10 +37,7 @@ I'm passionate about building modern web applications using cutting-edge technol
 - Portfolio: [Coming Soon](#)
 
 ### 🚀 Recent Projects
-
-1. **[Project Name]** - Short description (Tech used: React, Node, MongoDB)
-2. **[Project Name]** - Short description (Tech used: React, Express)
-3. **[Project Name]** - Short description (Tech used: MERN Stack)
+You can check them out in my repo.
 
 ---
 
