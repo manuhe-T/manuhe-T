@@ -10,7 +10,7 @@
 - 🎨 Love creating clean UIs and smooth user experiences
 - 🛠️ Always learning something new – currently exploring **AI integrations in web**
 - 💬 Open to collaboration and freelance projects
-- 📍 Based in [Your Location Here]
+- 📍 Based in [Ethiopia]
 
 ---
 
