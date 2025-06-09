@@ -37,13 +37,11 @@
 
 ---
 
-## 🧩 Featured Projects
+## 🧩 Projects
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [**NextAuth Starter**](https://github.com/manuhe-T/nextauth-starter) | A ready-to-use authentication boilerplate using NextAuth.js | Next.js, NextAuth, MongoDB |
-| [**Portfolio v2**](https://github.com/manuhe-T/portfolio-v2) | Personal portfolio site with animations and dark mode | Next.js, Tailwind CSS |
-| [**Blog Engine**](https://github.com/manuhe-T/blog-engine) | Full-featured markdown blog platform | Next.js, Prisma, SQLite |
+*Coming soon...*
+
+> *(Once you publish your project repos like `nextauth-starter`, `portfolio-v2`, etc., you can link them here.)*
 
 ---
 
@@ -55,4 +53,3 @@
 ---
 
 > ⚡ “Build, break, fix, repeat – that’s the dev life.”
-
